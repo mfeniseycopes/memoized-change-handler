@@ -1,0 +1,22 @@
+{
+  "name": "memoized-change-handler",
+  "version": "1.0.0",
+  "description": "\"Dynamic 'onChange' handler creation with memoization\"",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfeniseycopes/memoized-change-handler.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Meagan Fenisey-Copes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfeniseycopes/memoized-change-handler/issues"
+  },
+  "homepage": "https://github.com/mfeniseycopes/memoized-change-handler#readme"
+}

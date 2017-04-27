@@ -1,6 +1,6 @@
 {
   "name": "memoized-change-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Dynamic 'onChange' handler creation with memoization\"",
   "main": "src/index.js",
   "scripts": {
